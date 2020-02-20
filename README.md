@@ -1,3 +1,2 @@
-Projeto para entendimento do redux
+Projeto de introdução ao redux
 
-aula: https://www.youtube.com/watch?v=u99tNt3TZf8
